@@ -1,4 +1,4 @@
-package com.victor.springjwtauthentication.models;
+package com.victor.springjwtauthentication.enums;
 
 public enum Role {
     USER,

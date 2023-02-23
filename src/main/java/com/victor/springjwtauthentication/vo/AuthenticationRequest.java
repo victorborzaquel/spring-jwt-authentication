@@ -1,4 +1,4 @@
-package com.victor.springjwtauthentication.vos;
+package com.victor.springjwtauthentication.vo;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
